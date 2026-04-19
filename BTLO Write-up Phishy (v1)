@@ -1,0 +1,14 @@
+**Note**
+
+This is a brief summary of the phishing investigation. The full and detailed write-up is available on Medium.
+
+The analysis starts with a single phishing link, then covers HTML inspection, phishing kit identification, and how credentials are captured and exfiltrated.
+
+---
+
+**Qeyd**
+
+Bu repository yalnız qısa xülasədir. Ətraflı və tam analiz Medium-da paylaşılmışdır.
+
+Araşdırma bir phishing linkdən başlayır, daha sonra HTML analizi, phishing kitin müəyyən edilməsi və məlumatların necə oğurlandığı izah olunur.
+Link : https://medium.com/@nurayshiralieva/btlo-write-up-phishy-v1-8fbedc49a561
